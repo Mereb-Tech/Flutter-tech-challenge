@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "984628814474",
+    "project_id": "mereb-tect-challange",
+    "storage_bucket": "mereb-tect-challange.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:984628814474:android:de90406667ca9ef5aec373",
+        "android_client_info": {
+          "package_name": "com.example.estif_challange"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCT108zPpxzc2C0PMp3bpYqYYKYlcsSXdE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
