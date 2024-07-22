@@ -1,37 +1,29 @@
-# Flutter Chat Application
+# Lite Chat
 
-## Overview
+This is a basic real-time chat application. The app includes the following features:
 
-Create a simple Flutter application.
-
-![b17fc6b9f4246f6ac41de843deef999a](https://github.com/user-attachments/assets/df0294a5-8807-4c39-9a46-abf9844f54d7)
-
-
-Your task is to create a Flutter application that enables real-time messaging between users. The app should have basic features such as sending and receiving messages in real-time, displaying message timestamps, and a user-friendly interface.
+- **Chat-list Conversations**
+- **User Search**
+- **Realtime Typing Status**
+- **Basic User Authentication**
 
 ## Features
 
-- Real-time messaging
-- User profiles(Bonus)
-- Message timestamps
-- Basic UI for chat list and chat detail pages(Bonus)
+### Chat-list Conversations
 
-### Usage
+- Display a list of chat conversations with user avatars, last messages, and timestamps.
+- Users can tap on a conversation to view and send messages.
 
-1. **Chat:**
-   - Users can view a list of chats.(Bonus)
-   - Users can send and receive messages in real-time.
-   - Each message displays the sender's name and a timestamp.
-   
-### Contributing
+### User Search
 
-We welcome contributions! Please follow these steps to contribute:
+- Search for users by their email.
+- Results are displayed in real-time as the user types, allowing partial matches.
 
-1. Fork the repository.
-2. Create a new branch (`git checkout -b feature/your-feature`).
-3. Make your changes and commit them (`git commit -m 'Add some feature'`).
-4. Push to the branch (`git push origin feature/your-feature`).
-5. Create a pull request.
+### Realtime Typing Status
 
+- Display typing status indicators in chat conversations.
+- Show when the other user is typing in real-time.
 
+### Basic User Authentication
 
+- User registration and login with email and password.
