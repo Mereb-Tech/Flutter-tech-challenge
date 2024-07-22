@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "395908122574",
+    "project_id": "chatapp-5248c",
+    "storage_bucket": "chatapp-5248c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:395908122574:android:e6aadbd46515b18dc30d9f",
+        "android_client_info": {
+          "package_name": "com.example.merem_chat_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "395908122574-d5q5l3f4g4eosoptp6vc3qf79j91hobk.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.merem_chat_app",
+            "certificate_hash": "e27b50c63c6d44a67b5c08241e39b9b8e2b7d455"
+          }
+        },
+        {
+          "client_id": "395908122574-5sa2tgftbri56ttjmh8jnsb23qilflld.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDmk0ZqBYvgIOUe5iE7VyyiunmlujaJ9mU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "395908122574-5sa2tgftbri56ttjmh8jnsb23qilflld.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
